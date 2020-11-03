@@ -22,7 +22,7 @@
         
         "history_url": "https://csgwsu.scm.azurewebsites.net/api/triggeredwebjobs/LoadDW-WorkdayNightly/history",
         "scheduler_logs_url": null,
-        "name": "LoadDW-WorkdayNightly",
+        "name": "LoadDW-WorkdayNightlyxx",
         "run_command": "ivetRunAddHocProc.exe",
         "url": "https://csgwsu.scm.azurewebsites.net/api/triggeredwebjobs/LoadDW-WorkdayNightly",
         "extra_info_url": "https://csgwsu.scm.azurewebsites.net/azurejobs/#/jobs/triggered/LoadDW-WorkdayNightly",
