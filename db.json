@@ -32,4 +32,9 @@
         "settings": {}
       }
     }
-]}
+],
+    "profile": {
+    "name": "typicode"
+  }
+
+}
