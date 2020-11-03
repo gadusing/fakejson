@@ -19,6 +19,7 @@
           "job_name": "LoadDW-WorkdayNightly",
           "trigger": "External - "
         },
+        
         "history_url": "https://csgwsu.scm.azurewebsites.net/api/triggeredwebjobs/LoadDW-WorkdayNightly/history",
         "scheduler_logs_url": null,
         "name": "LoadDW-WorkdayNightly",
